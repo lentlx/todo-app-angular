@@ -1,5 +1,7 @@
 # TodoApp
 
+*Following Traversy Media [Angular Crash Course](https://www.youtube.com/watch?v=Fdf5aTYRW0E&list=PLNQOjcVSh46w9r8rSQw-q-mkz-VGVYGO0&index=32) on youtube*
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
 ## Development server
